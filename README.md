@@ -23,8 +23,8 @@
 
 ## Competition
 
-- [Dacon](https://dacon.io/competitions/official/235951/overview/description): 월간 데이콘 숫자 3D 이미지 분류 AI 경진대회 2등/165 (1%)
-* [Dacon](https://dacon.io/competitions/official/235977/overview/description): AI 양재 허브 인공지능 오픈소스 경진대회 7등/124 (6%)
+- [Dacon](https://dacon.io/competitions/official/235951/overview/description): 월간 데이콘 숫자 3D 이미지 분류 AI 경진대회 2등/165 (1%)<br>
+- [Dacon](https://dacon.io/competitions/official/235977/overview/description): AI 양재 허브 인공지능 오픈소스 경진대회 7등/124 (6%)
 
 ## **_Scholarships & Awards_**
 
