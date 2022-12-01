@@ -33,4 +33,4 @@
 - `삼육대학교` **[2022 SW해커톤 대회](https://www.syu.ac.kr/blog/127009/?pageds=2&k=&t=&c=)** **우수상** (2022) <br>
 - `삼육대학교` **[2022 SW 알고리즘 경진대회](https://www.syu.ac.kr/blog/sw%ec%a4%91%ec%8b%ac%eb%8c%80%ed%95%99%ec%82%ac%ec%97%85%eb%8b%a8-2022-1-sw-step-up-%ec%95%8c%ea%b3%a0%eb%a6%ac%ec%a6%98-%ed%8a%b9%ea%b0%95/?pageds=1&k=%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98&t=&c=)** **최우수상** (2022) <br>
 - `한국장학재단` **[국가우수(이공계) 장학생](https://www.kosaf.go.kr/ko/scholar.do?pg=scholarship05_06_01)** (2022~) <br>
-- `과학기술정보통신부` **[DNA+Drone Challenge 지정공모II 실시간 AI 서비스 챌린지](http://challenge-dnadrone.com/?page_id=600)** **대상(과학기술정보통신부 장관상)** (2022) <br>
+- `과학기술정보통신부` **[DNA+Drone Challenge 지정공모II 실시간 AI 서비스 챌린지](http://challenge-dnadrone.com/?page_id=600)** **대상** (2022) <br>
