@@ -7,14 +7,22 @@
 <center>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/PyTorch Lightning-792EE5?style=flat-square&logo=PyTorch Lightning&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/PyQt-41CD52?style=flat-square&logo=qt&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/PyTorch Lightning-792EE5?style=flat-square&logo=PyTorch Lightning&logoColor=white"/></a>&nbsp<br>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>
 </center>
 
 **Interests:** `Object Detection` `Action Classfication` `Generative Adverserial Network`
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qhdrmfdl12)](https://solved.ac/profile/qhdrmfdl12)
-
 </div>
+
+## Projects
+
+- 수계 인명 상황의 정확한 모니터링을 위한 AI 기반 객체 추적 연구<br>
+[ETRI, 2023.01.01 ~ 2023.12.31]
+- 스마트 홈 카메라를 이용한 인공지능기반 영유아 이상 징후 및 정상 운동발달 모니터링 연구<br>
+[한국 연구재단, 2022.06.01 ~ ]
 
 ## Publication
 
