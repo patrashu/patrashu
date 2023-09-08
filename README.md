@@ -17,7 +17,11 @@
 
 </div>
 
-[![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hihj070914)](https://solved.ac/zeroone_012)
+<div align=center>
+
+[![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zeroone_012)](https://solved.ac/zeroone_012)
+  
+</div>
 
 ## Projects
 
