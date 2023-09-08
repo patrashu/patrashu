@@ -17,6 +17,8 @@
 
 </div>
 
+[![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hihj070914)](https://solved.ac/zeroone_012)
+
 ## Projects
 
 - 수계 인명 상황의 정확한 모니터링을 위한 AI 기반 객체 추적 연구<br>
