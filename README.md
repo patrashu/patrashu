@@ -30,11 +30,6 @@
 - 스마트 홈 카메라를 이용한 인공지능기반 영유아 이상 징후 및 정상 운동발달 모니터링 연구<br>
 [한국 연구재단, 2022.06.01 ~ ]
 
-## Publication
-
-- [CAIR](https://arxiv.org/abs/2208.14039): Fast and Lightweight Multi-Scale Color Attention Network for Instagram Filter Removal `Top-tier` <br>
-  Woon-Ha Yeo<sup>1</sup>, Wang-Taek Oh, Kyung-Su Kang, Young-Il Kim, Han-Cheol Ryu\* (2022). European Conference on Computer Vision (ECCV) Workshop.
-
 ## Competition
 
 - [Dacon](https://dacon.io/competitions/official/235951/overview/description): 월간 데이콘 숫자 3D 이미지 분류 AI 경진대회 2등/165 (1%)<br>
