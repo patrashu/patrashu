@@ -1,5 +1,6 @@
 ### Young-il Kim
-
+- [Notion](https://patrashu.notion.site/47c64341a36a4d928e15cd7e888f01df?pvs=4)
+  
 ---
 
 <div align=center>
