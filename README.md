@@ -13,6 +13,7 @@
 - 삼육대학교 컴퓨터공학부 졸업 (2018.02 ~ 2024.02)
 - BoostCamp AI Tech 6기 수료 (2023.11 ~ 2024.04)
 - HMG Softeer Bootcamp 4기 DE 수료 (2024.07 ~ 2024.08)
+- 현대자동차 (DE, 2024.12 ~ )
 
 
 ## Competition
